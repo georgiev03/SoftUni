@@ -1,0 +1,12 @@
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.exe
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.deps.json
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.json
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.dev.json
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Softuni\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfo.cs
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+D:\Softuni\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Softuni\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csprojAssemblyReference.cache
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+D:\Softuni\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache

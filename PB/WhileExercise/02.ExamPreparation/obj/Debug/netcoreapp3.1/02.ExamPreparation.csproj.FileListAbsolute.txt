@@ -1,0 +1,13 @@
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Softuni\WhileExercise\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csprojAssemblyReference.cache
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\Softuni\WhileExercise\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.genruntimeconfig.cache

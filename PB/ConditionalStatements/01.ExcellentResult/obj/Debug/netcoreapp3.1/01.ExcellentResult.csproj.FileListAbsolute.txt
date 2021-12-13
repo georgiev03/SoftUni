@@ -1,0 +1,13 @@
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.exe
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.deps.json
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.json
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.dev.json
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Softuni\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csprojAssemblyReference.cache
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfoInputs.cache
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfo.cs
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Softuni\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.exe
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.deps.json
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.runtimeconfig.json
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.runtimeconfig.dev.json
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.dll
+D:\Softuni\10.InvalidNumber\bin\Debug\netcoreapp3.1\10.InvalidNumber.pdb
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.AssemblyInfoInputs.cache
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.AssemblyInfo.cs
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.dll
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.pdb
+D:\Softuni\10.InvalidNumber\obj\Debug\netcoreapp3.1\10.InvalidNumber.genruntimeconfig.cache

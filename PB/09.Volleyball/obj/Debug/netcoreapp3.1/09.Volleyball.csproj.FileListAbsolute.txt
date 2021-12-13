@@ -1,0 +1,12 @@
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.exe
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.deps.json
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.runtimeconfig.json
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.runtimeconfig.dev.json
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.dll
+D:\Softuni\09.Volleyball\bin\Debug\netcoreapp3.1\09.Volleyball.pdb
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.AssemblyInfoInputs.cache
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.AssemblyInfo.cs
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.csproj.CoreCompileInputs.cache
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.dll
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.pdb
+D:\Softuni\09.Volleyball\obj\Debug\netcoreapp3.1\09.Volleyball.genruntimeconfig.cache

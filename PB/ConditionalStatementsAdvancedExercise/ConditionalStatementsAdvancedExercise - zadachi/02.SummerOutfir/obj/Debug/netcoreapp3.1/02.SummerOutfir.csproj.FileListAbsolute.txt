@@ -1,0 +1,13 @@
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.csprojAssemblyReference.cache
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.AssemblyInfoInputs.cache
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.AssemblyInfo.cs
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.csproj.CoreCompileInputs.cache
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.exe
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.deps.json
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.runtimeconfig.json
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.runtimeconfig.dev.json
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.dll
+D:\Softuni\02.SummerOutfir\bin\Debug\netcoreapp3.1\02.SummerOutfir.pdb
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.dll
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.pdb
+D:\Softuni\02.SummerOutfir\obj\Debug\netcoreapp3.1\02.SummerOutfir.genruntimeconfig.cache

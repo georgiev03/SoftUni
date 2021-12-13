@@ -1,0 +1,13 @@
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.exe
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.deps.json
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.runtimeconfig.json
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.runtimeconfig.dev.json
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.dll
+D:\Softuni\akvarium\bin\Debug\netcoreapp3.1\akvarium.pdb
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.csprojAssemblyReference.cache
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.AssemblyInfoInputs.cache
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.AssemblyInfo.cs
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.csproj.CoreCompileInputs.cache
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.dll
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.pdb
+D:\Softuni\akvarium\obj\Debug\netcoreapp3.1\akvarium.genruntimeconfig.cache

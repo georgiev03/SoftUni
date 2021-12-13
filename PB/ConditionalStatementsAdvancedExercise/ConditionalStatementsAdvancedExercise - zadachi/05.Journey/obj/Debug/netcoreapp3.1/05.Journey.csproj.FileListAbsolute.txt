@@ -1,0 +1,13 @@
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.exe
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.deps.json
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.json
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.dev.json
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.dll
+D:\Softuni\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.pdb
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csprojAssemblyReference.cache
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfoInputs.cache
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfo.cs
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csproj.CoreCompileInputs.cache
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.dll
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.pdb
+D:\Softuni\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.genruntimeconfig.cache

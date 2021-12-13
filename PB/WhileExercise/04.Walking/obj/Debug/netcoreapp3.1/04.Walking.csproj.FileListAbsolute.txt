@@ -1,0 +1,13 @@
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+D:\Softuni\WhileExercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache
+D:\Softuni\WhileExercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.exe
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.deps.json
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.runtimeconfig.json
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.runtimeconfig.dev.json
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.dll
+D:\Softuni\IfClauses\04.MetricConventor\bin\Debug\netcoreapp3.1\04.MetricConventor.pdb
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.csprojAssemblyReference.cache
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.AssemblyInfo.cs
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.dll
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.pdb
+D:\Softuni\IfClauses\04.MetricConventor\obj\Debug\netcoreapp3.1\04.MetricConventor.genruntimeconfig.cache

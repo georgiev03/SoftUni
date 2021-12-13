@@ -1,0 +1,13 @@
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Softuni\WhileLoops\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csprojAssemblyReference.cache
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Softuni\WhileLoops\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.genruntimeconfig.cache

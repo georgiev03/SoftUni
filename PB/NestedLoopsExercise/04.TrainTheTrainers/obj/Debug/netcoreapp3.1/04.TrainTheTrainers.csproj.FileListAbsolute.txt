@@ -1,0 +1,12 @@
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.exe
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.deps.json
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.json
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.dev.json
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfo.cs
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+D:\Softuni\NestedLoopsExercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.genruntimeconfig.cache

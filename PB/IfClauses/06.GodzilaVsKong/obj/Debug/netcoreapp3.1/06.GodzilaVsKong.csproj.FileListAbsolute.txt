@@ -1,0 +1,12 @@
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.AssemblyInfo.cs
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.exe
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.deps.json
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.runtimeconfig.json
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.runtimeconfig.dev.json
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.dll
+D:\Softuni\IfClauses\06.GodzilaVsKong\bin\Debug\netcoreapp3.1\06.GodzilaVsKong.pdb
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.dll
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.pdb
+D:\Softuni\IfClauses\06.GodzilaVsKong\obj\Debug\netcoreapp3.1\06.GodzilaVsKong.genruntimeconfig.cache

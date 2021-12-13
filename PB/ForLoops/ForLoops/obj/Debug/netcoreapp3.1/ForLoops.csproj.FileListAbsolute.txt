@@ -1,0 +1,13 @@
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+D:\Softuni\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csprojAssemblyReference.cache
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+D:\Softuni\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache

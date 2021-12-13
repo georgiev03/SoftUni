@@ -1,0 +1,13 @@
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.exe
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.dll
+D:\Softuni\NestedLoops\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csprojAssemblyReference.cache
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.dll
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.pdb
+D:\Softuni\NestedLoops\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.genruntimeconfig.cache

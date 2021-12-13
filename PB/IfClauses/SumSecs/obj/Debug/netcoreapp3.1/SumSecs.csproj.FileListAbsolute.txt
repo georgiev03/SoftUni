@@ -1,0 +1,13 @@
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.exe
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.deps.json
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.runtimeconfig.json
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.runtimeconfig.dev.json
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.dll
+D:\Softuni\IfClauses\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.pdb
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.csprojAssemblyReference.cache
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.AssemblyInfo.cs
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.dll
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.pdb
+D:\Softuni\IfClauses\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.genruntimeconfig.cache

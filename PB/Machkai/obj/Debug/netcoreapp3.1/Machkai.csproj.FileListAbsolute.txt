@@ -1,0 +1,13 @@
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.exe
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.deps.json
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.runtimeconfig.json
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.runtimeconfig.dev.json
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.dll
+D:\Softuni\Machkai\bin\Debug\netcoreapp3.1\Machkai.pdb
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.csprojAssemblyReference.cache
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.AssemblyInfoInputs.cache
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.AssemblyInfo.cs
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.csproj.CoreCompileInputs.cache
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.dll
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.pdb
+D:\Softuni\Machkai\obj\Debug\netcoreapp3.1\Machkai.genruntimeconfig.cache

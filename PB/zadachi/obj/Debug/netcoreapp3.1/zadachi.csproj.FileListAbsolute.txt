@@ -1,0 +1,13 @@
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.exe
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.deps.json
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.runtimeconfig.json
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.runtimeconfig.dev.json
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.dll
+D:\Softuni\zadachi\bin\Debug\netcoreapp3.1\zadachi.pdb
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.csprojAssemblyReference.cache
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.AssemblyInfoInputs.cache
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.AssemblyInfo.cs
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.csproj.CoreCompileInputs.cache
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.dll
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.pdb
+D:\Softuni\zadachi\obj\Debug\netcoreapp3.1\zadachi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+D:\Softuni\WhileExercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache
+D:\Softuni\WhileExercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csprojAssemblyReference.cache

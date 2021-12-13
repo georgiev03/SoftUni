@@ -1,0 +1,13 @@
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.exe
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.deps.json
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.json
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.dev.json
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csprojAssemblyReference.cache
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfo.cs
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\Softuni\NestedLoopsExercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.genruntimeconfig.cache

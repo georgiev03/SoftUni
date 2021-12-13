@@ -1,0 +1,12 @@
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.exe
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.deps.json
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.runtimeconfig.json
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.runtimeconfig.dev.json
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.dll
+D:\Softuni\IfClauses\05.Time+15Mins\bin\Debug\netcoreapp3.1\05.Time+15Mins.pdb
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.AssemblyInfo.cs
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.dll
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.pdb
+D:\Softuni\IfClauses\05.Time+15Mins\obj\Debug\netcoreapp3.1\05.Time+15Mins.genruntimeconfig.cache

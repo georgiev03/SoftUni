@@ -1,0 +1,13 @@
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.exe
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.deps.json
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.runtimeconfig.json
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.runtimeconfig.dev.json
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.dll
+D:\Softuni\IfClauses\03.SpeedInfo\bin\Debug\netcoreapp3.1\03.SpeedInfo.pdb
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.csprojAssemblyReference.cache
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.AssemblyInfo.cs
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.dll
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.pdb
+D:\Softuni\IfClauses\03.SpeedInfo\obj\Debug\netcoreapp3.1\03.SpeedInfo.genruntimeconfig.cache

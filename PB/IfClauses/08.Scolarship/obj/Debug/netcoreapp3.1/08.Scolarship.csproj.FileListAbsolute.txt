@@ -1,0 +1,13 @@
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.exe
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.deps.json
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.runtimeconfig.json
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.runtimeconfig.dev.json
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.dll
+D:\Softuni\IfClauses\08.Scolarship\bin\Debug\netcoreapp3.1\08.Scolarship.pdb
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.csprojAssemblyReference.cache
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.AssemblyInfo.cs
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.dll
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.pdb
+D:\Softuni\IfClauses\08.Scolarship\obj\Debug\netcoreapp3.1\08.Scolarship.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.exe
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.deps.json
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.runtimeconfig.json
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.runtimeconfig.dev.json
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.dll
+D:\Softuni\ForLoops\SumGlasni\bin\Debug\netcoreapp3.1\SumGlasni.pdb
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.csprojAssemblyReference.cache
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.AssemblyInfo.cs
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.dll
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.pdb
+D:\Softuni\ForLoops\SumGlasni\obj\Debug\netcoreapp3.1\SumGlasni.genruntimeconfig.cache

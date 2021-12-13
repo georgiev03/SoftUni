@@ -1,0 +1,12 @@
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.exe
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.deps.json
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.runtimeconfig.json
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.runtimeconfig.dev.json
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.dll
+D:\Softuni\ForLoops\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.pdb
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.AssemblyInfo.cs
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.dll
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.pdb
+D:\Softuni\ForLoops\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.genruntimeconfig.cache

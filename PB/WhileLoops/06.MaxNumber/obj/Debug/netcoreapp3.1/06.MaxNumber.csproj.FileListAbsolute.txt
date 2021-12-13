@@ -1,0 +1,12 @@
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Softuni\WhileLoops\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\Softuni\WhileLoops\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache

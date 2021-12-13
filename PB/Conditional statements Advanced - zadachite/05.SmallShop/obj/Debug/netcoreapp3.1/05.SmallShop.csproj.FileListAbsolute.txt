@@ -1,0 +1,12 @@
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.exe
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.deps.json
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.json
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.dev.json
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.dll
+D:\Softuni\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.pdb
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfoInputs.cache
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfo.cs
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.dll
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.pdb
+D:\Softuni\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.genruntimeconfig.cache

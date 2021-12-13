@@ -1,0 +1,12 @@
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Softuni\WhileLoops\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\Softuni\WhileLoops\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.genruntimeconfig.cache

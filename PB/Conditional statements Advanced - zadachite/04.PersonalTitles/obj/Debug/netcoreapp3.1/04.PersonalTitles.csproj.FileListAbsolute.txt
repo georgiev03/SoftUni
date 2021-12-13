@@ -1,0 +1,12 @@
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.exe
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.deps.json
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.json
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.dev.json
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.dll
+D:\Softuni\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfoInputs.cache
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfo.cs
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.csproj.CoreCompileInputs.cache
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.dll
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+D:\Softuni\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.genruntimeconfig.cache

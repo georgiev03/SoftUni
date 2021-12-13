@@ -1,0 +1,12 @@
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.exe
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.deps.json
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.json
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.runtimeconfig.dev.json
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Softuni\08.CinemaTicket\bin\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfoInputs.cache
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.AssemblyInfo.cs
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.csproj.CoreCompileInputs.cache
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.dll
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.pdb
+D:\Softuni\08.CinemaTicket\obj\Debug\netcoreapp3.1\08.CinemaTicket.genruntimeconfig.cache

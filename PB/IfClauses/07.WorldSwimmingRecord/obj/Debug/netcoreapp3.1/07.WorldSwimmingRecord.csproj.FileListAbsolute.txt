@@ -1,0 +1,13 @@
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.exe
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.deps.json
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.runtimeconfig.json
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.runtimeconfig.dev.json
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.dll
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07.WorldSwimmingRecord.pdb
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.AssemblyInfo.cs
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.dll
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.pdb
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.genruntimeconfig.cache
+D:\Softuni\IfClauses\07.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07.WorldSwimmingRecord.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.exe
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.deps.json
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.json
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.dev.json
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+D:\Softuni\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfo.cs
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+D:\Softuni\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.genruntimeconfig.cache

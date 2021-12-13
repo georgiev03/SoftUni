@@ -1,0 +1,12 @@
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.exe
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.deps.json
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.runtimeconfig.json
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.runtimeconfig.dev.json
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.dll
+D:\Softuni\ForLoops\08.Numbersequence\bin\Debug\netcoreapp3.1\08.Numbersequence.pdb
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.AssemblyInfo.cs
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.dll
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.pdb
+D:\Softuni\ForLoops\08.Numbersequence\obj\Debug\netcoreapp3.1\08.Numbersequence.genruntimeconfig.cache

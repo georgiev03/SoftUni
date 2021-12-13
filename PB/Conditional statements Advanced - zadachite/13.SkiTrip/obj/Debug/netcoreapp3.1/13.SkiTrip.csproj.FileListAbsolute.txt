@@ -1,0 +1,13 @@
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.exe
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.deps.json
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.runtimeconfig.json
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.runtimeconfig.dev.json
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.dll
+D:\Softuni\13.SkiTrip\bin\Debug\netcoreapp3.1\13.SkiTrip.pdb
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.csprojAssemblyReference.cache
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.AssemblyInfoInputs.cache
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.AssemblyInfo.cs
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.csproj.CoreCompileInputs.cache
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.dll
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.pdb
+D:\Softuni\13.SkiTrip\obj\Debug\netcoreapp3.1\13.SkiTrip.genruntimeconfig.cache

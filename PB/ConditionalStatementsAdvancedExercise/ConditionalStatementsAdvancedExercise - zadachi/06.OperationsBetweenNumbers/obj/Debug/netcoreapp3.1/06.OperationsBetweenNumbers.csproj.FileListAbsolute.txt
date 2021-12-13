@@ -1,0 +1,12 @@
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.exe
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.deps.json
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.json
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+D:\Softuni\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+D:\Softuni\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.genruntimeconfig.cache

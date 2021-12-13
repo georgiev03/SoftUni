@@ -1,0 +1,13 @@
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.exe
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.deps.json
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.json
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.dev.json
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.dll
+D:\Softuni\WhileLoops\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.pdb
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csprojAssemblyReference.cache
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfoInputs.cache
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfo.cs
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.dll
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.pdb
+D:\Softuni\WhileLoops\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.genruntimeconfig.cache

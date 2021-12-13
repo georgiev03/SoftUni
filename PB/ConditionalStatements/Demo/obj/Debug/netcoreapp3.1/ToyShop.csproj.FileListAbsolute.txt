@@ -1,0 +1,13 @@
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.csprojAssemblyReference.cache
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.exe
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.dll
+D:\Softuni\ConditionalStatements\Demo\bin\Debug\netcoreapp3.1\ToyShop.pdb
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.dll
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.pdb
+D:\Softuni\ConditionalStatements\Demo\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache

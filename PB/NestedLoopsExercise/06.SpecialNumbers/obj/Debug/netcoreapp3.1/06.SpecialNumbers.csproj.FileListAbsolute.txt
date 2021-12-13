@@ -1,0 +1,13 @@
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.exe
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.deps.json
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.runtimeconfig.json
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.runtimeconfig.dev.json
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.dll
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\bin\Debug\netcoreapp3.1\06.SpecialNumbers.pdb
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.csprojAssemblyReference.cache
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.AssemblyInfo.cs
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.dll
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.pdb
+D:\Softuni\NestedLoopsExercise\06.SpecialNumbers\obj\Debug\netcoreapp3.1\06.SpecialNumbers.genruntimeconfig.cache

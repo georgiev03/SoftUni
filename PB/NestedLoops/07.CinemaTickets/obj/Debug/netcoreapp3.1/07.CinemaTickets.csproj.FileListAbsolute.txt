@@ -1,0 +1,13 @@
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.exe
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.deps.json
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.runtimeconfig.json
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.runtimeconfig.dev.json
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.dll
+D:\Softuni\NestedLoops\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.pdb
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.csprojAssemblyReference.cache
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.AssemblyInfo.cs
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.dll
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.pdb
+D:\Softuni\NestedLoops\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.genruntimeconfig.cache

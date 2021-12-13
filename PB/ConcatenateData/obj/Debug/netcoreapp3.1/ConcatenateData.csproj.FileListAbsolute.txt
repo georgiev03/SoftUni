@@ -1,0 +1,13 @@
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.exe
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.deps.json
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.json
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.dev.json
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.dll
+D:\Softuni\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.pdb
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csprojAssemblyReference.cache
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfoInputs.cache
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfo.cs
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.dll
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.pdb
+D:\Softuni\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.genruntimeconfig.cache

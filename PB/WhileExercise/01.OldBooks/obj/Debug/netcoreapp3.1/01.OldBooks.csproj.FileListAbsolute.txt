@@ -1,0 +1,13 @@
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Softuni\WhileExercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csprojAssemblyReference.cache
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.CoreCompileInputs.cache
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\Softuni\WhileExercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.genruntimeconfig.cache

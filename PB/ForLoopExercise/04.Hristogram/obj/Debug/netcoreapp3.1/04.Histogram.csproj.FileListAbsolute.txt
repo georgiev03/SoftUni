@@ -1,0 +1,13 @@
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.exe
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.deps.json
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.json
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.dev.json
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.dll
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\bin\Debug\netcoreapp3.1\04.Histogram.pdb
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfo.cs
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.dll
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.pdb
+C:\Users\Freeware Sys\source\repos\01.NumbersEndingIn7\04.Hristogram\obj\Debug\netcoreapp3.1\04.Histogram.genruntimeconfig.cache

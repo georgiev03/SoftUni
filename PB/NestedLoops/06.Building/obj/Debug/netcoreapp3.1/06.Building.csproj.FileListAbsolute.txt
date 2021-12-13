@@ -1,0 +1,12 @@
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.exe
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.deps.json
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.dll
+D:\Softuni\NestedLoops\06.Building\bin\Debug\netcoreapp3.1\06.Building.pdb
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.dll
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.pdb
+D:\Softuni\NestedLoops\06.Building\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache

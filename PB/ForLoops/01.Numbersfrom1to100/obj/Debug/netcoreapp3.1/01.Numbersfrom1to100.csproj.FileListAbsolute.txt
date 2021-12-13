@@ -1,0 +1,13 @@
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.exe
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.deps.json
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.runtimeconfig.json
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.runtimeconfig.dev.json
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.dll
+D:\Softuni\ForLoops\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.pdb
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.csprojAssemblyReference.cache
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.AssemblyInfo.cs
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.dll
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.pdb
+D:\Softuni\ForLoops\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.genruntimeconfig.cache

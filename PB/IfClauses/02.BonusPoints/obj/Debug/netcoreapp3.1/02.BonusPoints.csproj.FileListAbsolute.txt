@@ -1,0 +1,12 @@
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.exe
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.deps.json
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.runtimeconfig.json
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.runtimeconfig.dev.json
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.dll
+D:\Softuni\IfClauses\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.pdb
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.AssemblyInfoInputs.cache
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.AssemblyInfo.cs
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.csproj.CoreCompileInputs.cache
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.dll
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.pdb
+D:\Softuni\IfClauses\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.genruntimeconfig.cache

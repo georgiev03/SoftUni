@@ -1,0 +1,13 @@
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.exe
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.deps.json
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.json
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.dev.json
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.dll
+D:\Softuni\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.pdb
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfoInputs.cache
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfo.cs
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.CoreCompileInputs.cache
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.dll
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.pdb
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.genruntimeconfig.cache
+D:\Softuni\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.exe
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.deps.json
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.runtimeconfig.json
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.runtimeconfig.dev.json
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.dll
+D:\Softuni\ForLoops\02.NumbersNTo1\bin\Debug\netcoreapp3.1\02.NumbersNTo1.pdb
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.csprojAssemblyReference.cache
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.AssemblyInfoInputs.cache
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.AssemblyInfo.cs
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.csproj.CoreCompileInputs.cache
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.dll
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.pdb
+D:\Softuni\ForLoops\02.NumbersNTo1\obj\Debug\netcoreapp3.1\02.NumbersNTo1.genruntimeconfig.cache
