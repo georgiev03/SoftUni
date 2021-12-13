@@ -1,0 +1,13 @@
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

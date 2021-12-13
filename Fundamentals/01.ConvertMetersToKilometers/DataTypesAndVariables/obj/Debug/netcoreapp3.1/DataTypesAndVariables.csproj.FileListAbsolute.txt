@@ -1,0 +1,13 @@
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.exe
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.dll
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\bin\Debug\netcoreapp3.1\DataTypesAndVariables.pdb
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.csprojAssemblyReference.cache
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.dll
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.pdb
+D:\Softuni\01.ConvertMetersToKilometers\DataTypesAndVariables\obj\Debug\netcoreapp3.1\DataTypesAndVariables.genruntimeconfig.cache

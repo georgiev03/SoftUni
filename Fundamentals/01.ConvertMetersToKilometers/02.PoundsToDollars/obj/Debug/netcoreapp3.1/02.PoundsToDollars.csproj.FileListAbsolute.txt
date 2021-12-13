@@ -1,0 +1,13 @@
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.exe
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.dll
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.pdb
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.csprojAssemblyReference.cache
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.dll
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.pdb
+D:\Softuni\01.ConvertMetersToKilometers\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.genruntimeconfig.cache

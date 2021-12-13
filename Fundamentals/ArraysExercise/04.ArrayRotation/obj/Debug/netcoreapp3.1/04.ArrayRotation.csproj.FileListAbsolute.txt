@@ -1,0 +1,13 @@
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.exe
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.deps.json
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.json
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.dev.json
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.dll
+D:\Softuni\ArraysExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csprojAssemblyReference.cache
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfoInputs.cache
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfo.cs
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.dll
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+D:\Softuni\ArraysExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.genruntimeconfig.cache

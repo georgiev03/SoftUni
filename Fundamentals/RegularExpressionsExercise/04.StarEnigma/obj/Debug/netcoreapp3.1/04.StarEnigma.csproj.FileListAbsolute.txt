@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.exe
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.deps.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.dll
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.pdb
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.dll
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.pdb
+D:\Softuni\Fundamentals\RegularExpressionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.genruntimeconfig.cache

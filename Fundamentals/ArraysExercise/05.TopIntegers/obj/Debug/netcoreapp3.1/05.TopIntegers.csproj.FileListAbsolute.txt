@@ -1,0 +1,13 @@
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.exe
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.deps.json
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.json
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.dev.json
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.dll
+D:\Softuni\ArraysExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.pdb
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.csprojAssemblyReference.cache
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfoInputs.cache
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfo.cs
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.dll
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.pdb
+D:\Softuni\ArraysExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.genruntimeconfig.cache

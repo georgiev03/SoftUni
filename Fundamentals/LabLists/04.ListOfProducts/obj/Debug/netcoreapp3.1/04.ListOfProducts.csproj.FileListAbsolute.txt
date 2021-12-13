@@ -1,0 +1,12 @@
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.exe
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.deps.json
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.runtimeconfig.json
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.runtimeconfig.dev.json
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.dll
+D:\Softuni\LabLists\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.pdb
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.AssemblyInfo.cs
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.dll
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.pdb
+D:\Softuni\LabLists\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.exe
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.deps.json
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.json
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.dll
+D:\Softuni\MethodsLab\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.pdb
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csprojAssemblyReference.cache
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfo.cs
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.dll
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.pdb
+D:\Softuni\MethodsLab\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.exe
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.deps.json
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.json
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.dev.json
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csprojAssemblyReference.cache
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfo.cs
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+D:\Softuni\01.DayOfWeek\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.xml
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.xml
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.xml
+D:\Softuni\DB\XML Exercise\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.xml

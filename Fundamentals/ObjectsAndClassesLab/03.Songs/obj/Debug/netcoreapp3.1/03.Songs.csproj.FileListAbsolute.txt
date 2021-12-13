@@ -1,0 +1,13 @@
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.exe
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.deps.json
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.json
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.dev.json
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.dll
+D:\Softuni\ObjectsAndClassesLab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.pdb
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csprojAssemblyReference.cache
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfoInputs.cache
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfo.cs
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.CoreCompileInputs.cache
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.dll
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.pdb
+D:\Softuni\ObjectsAndClassesLab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.genruntimeconfig.cache

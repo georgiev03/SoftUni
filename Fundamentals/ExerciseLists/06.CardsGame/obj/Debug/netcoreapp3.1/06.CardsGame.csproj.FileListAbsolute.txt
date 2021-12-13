@@ -1,0 +1,13 @@
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.exe
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.deps.json
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.json
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.dev.json
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\Softuni\ExerciseLists\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csprojAssemblyReference.cache
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfoInputs.cache
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfo.cs
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\Softuni\ExerciseLists\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.genruntimeconfig.cache

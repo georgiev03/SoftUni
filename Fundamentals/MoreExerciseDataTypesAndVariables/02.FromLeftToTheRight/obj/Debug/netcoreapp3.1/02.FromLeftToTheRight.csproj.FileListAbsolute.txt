@@ -1,0 +1,13 @@
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.exe
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.deps.json
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.json
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.dev.json
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csprojAssemblyReference.cache
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\Softuni\MoreExerciseDataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.genruntimeconfig.cache

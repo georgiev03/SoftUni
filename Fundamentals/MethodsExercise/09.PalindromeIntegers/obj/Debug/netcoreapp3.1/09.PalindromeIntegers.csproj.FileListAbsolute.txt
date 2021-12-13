@@ -1,0 +1,12 @@
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.exe
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.deps.json
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.runtimeconfig.json
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.runtimeconfig.dev.json
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.dll
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\bin\Debug\netcoreapp3.1\09.PalindromeIntegers.pdb
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.AssemblyInfo.cs
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.dll
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.pdb
+D:\Softuni\MethodsExercise\09.PalindromeIntegers\obj\Debug\netcoreapp3.1\09.PalindromeIntegers.genruntimeconfig.cache

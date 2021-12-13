@@ -1,0 +1,13 @@
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csprojAssemblyReference.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache

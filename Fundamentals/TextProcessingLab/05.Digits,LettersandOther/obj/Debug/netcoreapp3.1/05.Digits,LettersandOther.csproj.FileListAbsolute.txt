@@ -1,0 +1,12 @@
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.exe
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.deps.json
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.runtimeconfig.json
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.runtimeconfig.dev.json
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.dll
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\bin\Debug\netcoreapp3.1\05.Digits,LettersandOther.pdb
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.AssemblyInfoInputs.cache
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.AssemblyInfo.cs
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.csproj.CoreCompileInputs.cache
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.dll
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.pdb
+D:\Softuni\TextProcessingLab\05.Digits,LettersandOther\obj\Debug\netcoreapp3.1\05.Digits,LettersandOther.genruntimeconfig.cache

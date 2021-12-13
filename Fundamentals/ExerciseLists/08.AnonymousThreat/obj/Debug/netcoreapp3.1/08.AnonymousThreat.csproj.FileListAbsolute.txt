@@ -1,0 +1,13 @@
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.exe
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.deps.json
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.json
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.dev.json
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+D:\Softuni\ExerciseLists\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfoInputs.cache
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfo.cs
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.genruntimeconfig.cache
+D:\Softuni\ExerciseLists\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csprojAssemblyReference.cache

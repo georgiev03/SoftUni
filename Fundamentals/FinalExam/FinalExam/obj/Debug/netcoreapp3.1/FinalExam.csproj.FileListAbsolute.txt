@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfo.cs
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.exe
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.deps.json
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.json
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.dll
+D:\Softuni\Fundamentals\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.pdb
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.dll
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.pdb
+D:\Softuni\Fundamentals\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.genruntimeconfig.cache

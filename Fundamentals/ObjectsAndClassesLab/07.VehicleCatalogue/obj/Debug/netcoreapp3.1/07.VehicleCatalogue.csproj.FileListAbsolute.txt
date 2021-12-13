@@ -1,0 +1,13 @@
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.exe
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.deps.json
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.json
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.dev.json
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csprojAssemblyReference.cache
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfo.cs
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+D:\Softuni\ObjectsAndClassesLab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.genruntimeconfig.cache

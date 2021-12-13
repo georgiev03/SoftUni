@@ -1,0 +1,13 @@
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.exe
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.dll
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.pdb
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.csprojAssemblyReference.cache
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.dll
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.pdb
+D:\Softuni\01.ConvertMetersToKilometers\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.genruntimeconfig.cache

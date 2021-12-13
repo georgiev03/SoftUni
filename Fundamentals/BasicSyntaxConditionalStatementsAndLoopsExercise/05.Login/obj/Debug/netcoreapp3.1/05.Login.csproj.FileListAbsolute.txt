@@ -1,0 +1,13 @@
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csprojAssemblyReference.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache

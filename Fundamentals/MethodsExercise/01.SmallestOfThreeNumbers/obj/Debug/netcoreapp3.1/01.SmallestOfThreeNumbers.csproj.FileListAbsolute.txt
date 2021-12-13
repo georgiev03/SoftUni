@@ -1,0 +1,13 @@
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.exe
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.deps.json
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.dll
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.pdb
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.csprojAssemblyReference.cache
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.dll
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.pdb
+D:\Softuni\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.genruntimeconfig.cache

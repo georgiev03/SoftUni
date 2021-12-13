@@ -1,0 +1,12 @@
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+D:\Softuni\AssociativeArraysExersice\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache

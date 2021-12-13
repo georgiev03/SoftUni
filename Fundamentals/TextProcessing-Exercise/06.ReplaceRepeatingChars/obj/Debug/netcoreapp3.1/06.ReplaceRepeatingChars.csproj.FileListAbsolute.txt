@@ -1,0 +1,12 @@
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+D:\Softuni\Fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache

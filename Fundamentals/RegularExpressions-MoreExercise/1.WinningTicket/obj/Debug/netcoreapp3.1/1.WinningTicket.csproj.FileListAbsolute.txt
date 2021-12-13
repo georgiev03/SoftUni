@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.exe
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.deps.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.dll
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\bin\Debug\netcoreapp3.1\1.WinningTicket.pdb
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.dll
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.pdb
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\1.WinningTicket\obj\Debug\netcoreapp3.1\1.WinningTicket.genruntimeconfig.cache

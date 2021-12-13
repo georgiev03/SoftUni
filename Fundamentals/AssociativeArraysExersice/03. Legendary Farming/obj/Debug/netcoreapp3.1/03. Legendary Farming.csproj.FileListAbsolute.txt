@@ -1,0 +1,13 @@
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+D:\Softuni\AssociativeArraysExersice\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache

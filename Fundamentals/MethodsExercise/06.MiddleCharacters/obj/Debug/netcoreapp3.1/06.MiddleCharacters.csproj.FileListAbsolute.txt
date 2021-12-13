@@ -1,0 +1,12 @@
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.exe
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.deps.json
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.runtimeconfig.json
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.runtimeconfig.dev.json
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.dll
+D:\Softuni\MethodsExercise\06.MiddleCharacters\bin\Debug\netcoreapp3.1\06.MiddleCharacters.pdb
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.AssemblyInfo.cs
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.dll
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.pdb
+D:\Softuni\MethodsExercise\06.MiddleCharacters\obj\Debug\netcoreapp3.1\06.MiddleCharacters.genruntimeconfig.cache

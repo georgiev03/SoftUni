@@ -1,0 +1,12 @@
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.exe
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.dll
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\bin\Debug\netcoreapp3.1\09.CharToString.pdb
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.dll
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.pdb
+D:\Softuni\01.ConvertMetersToKilometers\09.CharToString\obj\Debug\netcoreapp3.1\09.CharToString.genruntimeconfig.cache

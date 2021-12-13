@@ -1,0 +1,12 @@
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.exe
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.deps.json
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.json
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.dev.json
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.dll
+D:\Softuni\ObjectsAndClassesLab\04.Students\bin\Debug\netcoreapp3.1\04.Students.pdb
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfoInputs.cache
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfo.cs
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.csproj.CoreCompileInputs.cache
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.dll
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.pdb
+D:\Softuni\ObjectsAndClassesLab\04.Students\obj\Debug\netcoreapp3.1\04.Students.genruntimeconfig.cache

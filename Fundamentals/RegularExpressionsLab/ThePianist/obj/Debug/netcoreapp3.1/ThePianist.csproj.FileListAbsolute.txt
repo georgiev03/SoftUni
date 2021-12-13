@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.exe
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.deps.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.dll
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.pdb
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.dll
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.pdb
+D:\Softuni\Fundamentals\RegularExpressionsLab\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.genruntimeconfig.cache

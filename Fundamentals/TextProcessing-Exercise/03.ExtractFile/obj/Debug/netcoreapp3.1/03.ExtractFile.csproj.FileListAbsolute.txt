@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+D:\Softuni\Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

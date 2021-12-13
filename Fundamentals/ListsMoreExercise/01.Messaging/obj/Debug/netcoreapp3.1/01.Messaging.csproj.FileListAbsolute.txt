@@ -1,0 +1,13 @@
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.exe
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.deps.json
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.runtimeconfig.json
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.runtimeconfig.dev.json
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.dll
+D:\Softuni\ListsMoreExercise\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.pdb
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.csprojAssemblyReference.cache
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.AssemblyInfoInputs.cache
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.AssemblyInfo.cs
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.csproj.CoreCompileInputs.cache
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.dll
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.pdb
+D:\Softuni\ListsMoreExercise\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.genruntimeconfig.cache

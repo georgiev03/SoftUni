@@ -1,0 +1,13 @@
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.exe
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.deps.json
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.runtimeconfig.json
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.runtimeconfig.dev.json
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.dll
+D:\Softuni\ArraysExercise\03.ZigZagArrays\bin\Debug\netcoreapp3.1\03.ZigZagArrays.pdb
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.csprojAssemblyReference.cache
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.AssemblyInfoInputs.cache
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.AssemblyInfo.cs
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.csproj.CoreCompileInputs.cache
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.dll
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.pdb
+D:\Softuni\ArraysExercise\03.ZigZagArrays\obj\Debug\netcoreapp3.1\03.ZigZagArrays.genruntimeconfig.cache

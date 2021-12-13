@@ -1,0 +1,12 @@
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Softuni\OOP\ReflectionAndAttributesLab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

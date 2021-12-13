@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.exe
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.deps.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.dll
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.pdb
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfo.cs
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.dll
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.pdb
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.genruntimeconfig.cache

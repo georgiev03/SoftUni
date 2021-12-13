@@ -1,0 +1,13 @@
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.exe
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.deps.json
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.json
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.dll
+D:\Softuni\MethodsLab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.pdb
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csprojAssemblyReference.cache
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfo.cs
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.dll
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.pdb
+D:\Softuni\MethodsLab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.genruntimeconfig.cache

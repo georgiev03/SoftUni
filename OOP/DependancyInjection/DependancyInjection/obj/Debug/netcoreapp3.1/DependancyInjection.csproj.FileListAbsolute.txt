@@ -1,0 +1,16 @@
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.exe
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.deps.json
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.runtimeconfig.json
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.runtimeconfig.dev.json
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.dll
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.pdb
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.csproj.AssemblyReference.cache
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.AssemblyInfoInputs.cache
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.AssemblyInfo.cs
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.csproj.CopyComplete
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.dll
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.pdb
+D:\Softuni\OOP\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.genruntimeconfig.cache

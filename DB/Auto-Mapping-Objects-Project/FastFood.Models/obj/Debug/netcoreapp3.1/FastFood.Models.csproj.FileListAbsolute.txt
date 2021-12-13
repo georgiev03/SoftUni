@@ -1,0 +1,10 @@
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.deps.json
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.dll
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp3.1\FastFood.Models.pdb
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.csproj.AssemblyReference.cache
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.AssemblyInfoInputs.cache
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.AssemblyInfo.cs
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.dll
+D:\Softuni\DB\Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp3.1\FastFood.Models.pdb

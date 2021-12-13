@@ -1,0 +1,13 @@
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.exe
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.deps.json
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.runtimeconfig.json
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.dll
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.pdb
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.csprojAssemblyReference.cache
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.dll
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.pdb
+D:\Softuni\AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.genruntimeconfig.cache

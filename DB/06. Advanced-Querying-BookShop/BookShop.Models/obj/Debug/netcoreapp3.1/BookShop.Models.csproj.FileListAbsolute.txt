@@ -1,0 +1,9 @@
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Softuni\DB\06. Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb

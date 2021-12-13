@@ -1,0 +1,12 @@
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.exe
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.deps.json
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.json
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.dev.json
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.dll
+D:\Softuni\TextProcessingLab\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.pdb
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfoInputs.cache
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfo.cs
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.dll
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.pdb
+D:\Softuni\TextProcessingLab\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.genruntimeconfig.cache

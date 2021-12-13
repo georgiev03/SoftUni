@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.exe
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.deps.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.dll
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\bin\Debug\netcoreapp3.1\2.RageQuit.pdb
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.dll
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.pdb
+D:\Softuni\Fundamentals\RegularExpressions-MoreExercise\2.RageQuit\obj\Debug\netcoreapp3.1\2.RageQuit.genruntimeconfig.cache

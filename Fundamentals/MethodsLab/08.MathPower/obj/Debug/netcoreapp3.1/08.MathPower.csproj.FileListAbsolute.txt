@@ -1,0 +1,12 @@
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.exe
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.deps.json
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.json
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.dll
+D:\Softuni\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfo.cs
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.dll
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\Softuni\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.genruntimeconfig.cache

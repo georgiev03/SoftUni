@@ -1,0 +1,13 @@
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Softuni\DB\JSON Exercise\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache

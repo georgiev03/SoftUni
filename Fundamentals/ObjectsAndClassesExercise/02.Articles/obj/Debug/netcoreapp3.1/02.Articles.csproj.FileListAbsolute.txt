@@ -1,0 +1,13 @@
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.exe
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.deps.json
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.json
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.dev.json
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.dll
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.pdb
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csprojAssemblyReference.cache
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfoInputs.cache
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfo.cs
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csproj.CoreCompileInputs.cache
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.dll
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.pdb
+D:\Softuni\ObjectsAndClassesExercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.genruntimeconfig.cache

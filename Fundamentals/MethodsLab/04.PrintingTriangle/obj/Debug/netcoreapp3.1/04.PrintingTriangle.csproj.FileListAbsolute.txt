@@ -1,0 +1,13 @@
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.exe
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.deps.json
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.json
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+D:\Softuni\MethodsLab\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csprojAssemblyReference.cache
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfo.cs
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+D:\Softuni\MethodsLab\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.genruntimeconfig.cache

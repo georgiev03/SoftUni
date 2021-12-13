@@ -1,0 +1,13 @@
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.exe
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.deps.json
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.runtimeconfig.json
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.runtimeconfig.dev.json
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.dll
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.pdb
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.csprojAssemblyReference.cache
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.AssemblyInfoInputs.cache
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.AssemblyInfo.cs
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.dll
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.pdb
+D:\Softuni\1.StudentInformation\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.genruntimeconfig.cache

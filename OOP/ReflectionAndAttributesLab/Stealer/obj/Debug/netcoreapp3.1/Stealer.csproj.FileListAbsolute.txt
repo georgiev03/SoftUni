@@ -1,0 +1,13 @@
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\Softuni\OOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

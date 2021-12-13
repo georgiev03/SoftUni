@@ -1,0 +1,13 @@
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+D:\Softuni\AssociativeArraysExersice\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache

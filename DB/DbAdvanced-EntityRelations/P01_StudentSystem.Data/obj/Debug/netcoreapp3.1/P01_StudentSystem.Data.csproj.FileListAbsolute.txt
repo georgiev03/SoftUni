@@ -1,0 +1,15 @@
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.deps.json
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.json
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.dev.json
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.AssemblyReference.cache
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfo.cs
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CopyComplete
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\Softuni\DB\DbAdvanced-EntityRelations\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.genruntimeconfig.cache

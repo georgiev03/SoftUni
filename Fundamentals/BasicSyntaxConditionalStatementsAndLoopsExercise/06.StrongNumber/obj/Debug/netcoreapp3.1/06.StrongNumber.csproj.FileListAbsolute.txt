@@ -1,0 +1,12 @@
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache

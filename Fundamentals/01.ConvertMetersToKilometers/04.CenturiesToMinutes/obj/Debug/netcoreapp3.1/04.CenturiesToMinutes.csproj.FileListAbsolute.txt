@@ -1,0 +1,13 @@
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.exe
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csprojAssemblyReference.cache
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+D:\Softuni\01.ConvertMetersToKilometers\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.genruntimeconfig.cache

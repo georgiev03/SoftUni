@@ -1,0 +1,12 @@
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.exe
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.deps.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.dll
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.pdb
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.dll
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.pdb
+D:\Softuni\Fundamentals\RegularExpressionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.genruntimeconfig.cache

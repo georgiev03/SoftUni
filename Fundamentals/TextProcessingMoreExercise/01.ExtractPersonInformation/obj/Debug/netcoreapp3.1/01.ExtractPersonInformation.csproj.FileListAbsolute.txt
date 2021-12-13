@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.exe
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.deps.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csprojAssemblyReference.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\Softuni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.genruntimeconfig.cache

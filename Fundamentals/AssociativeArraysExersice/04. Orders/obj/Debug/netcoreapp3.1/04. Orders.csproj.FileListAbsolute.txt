@@ -1,0 +1,12 @@
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.exe
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.deps.json
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.json
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.dll
+D:\Softuni\AssociativeArraysExersice\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.pdb
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.dll
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.pdb
+D:\Softuni\AssociativeArraysExersice\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.genruntimeconfig.cache

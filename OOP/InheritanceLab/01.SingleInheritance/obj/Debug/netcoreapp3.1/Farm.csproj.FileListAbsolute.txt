@@ -1,0 +1,12 @@
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.exe
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.dll
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.dll
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\Softuni\OOP\InheritanceLab\01.SingleInheritance\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

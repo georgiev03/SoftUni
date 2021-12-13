@@ -1,0 +1,13 @@
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.exe
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.deps.json
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.json
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.csprojAssemblyReference.cache
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+D:\Softuni\01.ConvertMetersToKilometers\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.exe
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.deps.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfo.cs
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Softuni\Fundamentals\RegularExpressionsLab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.genruntimeconfig.cache

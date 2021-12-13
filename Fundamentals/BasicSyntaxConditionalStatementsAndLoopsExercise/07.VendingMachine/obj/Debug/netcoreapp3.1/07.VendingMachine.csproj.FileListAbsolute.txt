@@ -1,0 +1,12 @@
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache

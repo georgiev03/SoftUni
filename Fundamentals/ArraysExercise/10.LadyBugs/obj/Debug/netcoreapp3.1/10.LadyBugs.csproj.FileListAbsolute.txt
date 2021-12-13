@@ -1,0 +1,13 @@
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.exe
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.deps.json
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.runtimeconfig.json
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.runtimeconfig.dev.json
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.dll
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.pdb
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.AssemblyInfoInputs.cache
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.AssemblyInfo.cs
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.csproj.CoreCompileInputs.cache
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.dll
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.pdb
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.genruntimeconfig.cache
+D:\Softuni\Fundamentals\ArraysExercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.csprojAssemblyReference.cache

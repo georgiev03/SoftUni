@@ -1,0 +1,13 @@
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.exe
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.deps.json
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.runtimeconfig.json
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.runtimeconfig.dev.json
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.dll
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.pdb
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.csprojAssemblyReference.cache
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.AssemblyInfoInputs.cache
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.AssemblyInfo.cs
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.csproj.CoreCompileInputs.cache
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.dll
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.pdb
+D:\Softuni\ExerciseLists\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.genruntimeconfig.cache

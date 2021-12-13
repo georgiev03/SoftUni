@@ -1,0 +1,10 @@
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.deps.json
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.dll
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.pdb
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.dll
+D:\Softuni\DB\EFCoreArchitecture\EFCoreArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\EFCoreArchitecture.Infrastructure.pdb

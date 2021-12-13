@@ -1,0 +1,12 @@
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.exe
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.deps.json
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.json
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\Softuni\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.genruntimeconfig.cache

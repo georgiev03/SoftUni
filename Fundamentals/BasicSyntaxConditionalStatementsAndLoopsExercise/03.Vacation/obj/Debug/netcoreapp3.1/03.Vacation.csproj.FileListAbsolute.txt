@@ -1,0 +1,13 @@
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csprojAssemblyReference.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.CoreCompileInputs.cache
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\Softuni\BasicSyntaxConditionalStatementsAndLoopsExercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.genruntimeconfig.cache

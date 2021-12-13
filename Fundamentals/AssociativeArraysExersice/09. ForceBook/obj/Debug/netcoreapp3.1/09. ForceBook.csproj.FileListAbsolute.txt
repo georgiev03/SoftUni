@@ -1,0 +1,13 @@
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.exe
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.deps.json
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.json
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.dev.json
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csprojAssemblyReference.cache
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfoInputs.cache
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfo.cs
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csproj.CoreCompileInputs.cache
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Softuni\AssociativeArraysExersice\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.exe
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.deps.json
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.runtimeconfig.json
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.runtimeconfig.dev.json
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.dll
+D:\Softuni\LabLists\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.pdb
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.csprojAssemblyReference.cache
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.AssemblyInfoInputs.cache
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.AssemblyInfo.cs
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.csproj.CoreCompileInputs.cache
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.dll
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.pdb
+D:\Softuni\LabLists\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.genruntimeconfig.cache

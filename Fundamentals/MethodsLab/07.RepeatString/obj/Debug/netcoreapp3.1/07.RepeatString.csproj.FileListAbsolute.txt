@@ -1,0 +1,12 @@
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.exe
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.deps.json
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.json
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.dev.json
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.dll
+D:\Softuni\MethodsLab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.pdb
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfoInputs.cache
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfo.cs
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.CoreCompileInputs.cache
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.dll
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.pdb
+D:\Softuni\MethodsLab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.genruntimeconfig.cache
