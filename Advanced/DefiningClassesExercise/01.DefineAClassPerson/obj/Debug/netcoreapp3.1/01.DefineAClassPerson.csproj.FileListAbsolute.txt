@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.exe
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.deps.json
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.json
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.runtimeconfig.dev.json
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\bin\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csprojAssemblyReference.cache
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.AssemblyInfo.cs
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.dll
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.pdb
+D:\Softuni\Advanced\DefiningClassesExercise\01.DefineAClassPerson\obj\Debug\netcoreapp3.1\01.DefineAClassPerson.genruntimeconfig.cache

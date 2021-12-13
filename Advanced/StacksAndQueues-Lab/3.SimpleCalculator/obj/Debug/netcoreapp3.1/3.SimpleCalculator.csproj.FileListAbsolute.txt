@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.exe
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.deps.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.runtimeconfig.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.dll
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\netcoreapp3.1\3.SimpleCalculator.pdb
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.csprojAssemblyReference.cache
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.dll
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.pdb
+D:\Softuni\Advanced\StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\netcoreapp3.1\3.SimpleCalculator.genruntimeconfig.cache

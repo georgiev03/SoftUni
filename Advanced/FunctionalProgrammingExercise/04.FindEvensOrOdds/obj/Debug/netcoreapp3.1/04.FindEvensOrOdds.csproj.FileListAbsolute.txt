@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.exe
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\bin\Debug\netcoreapp3.1\04.FindEvensOrOdds.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\04.FindEvensOrOdds\obj\Debug\netcoreapp3.1\04.FindEvensOrOdds.genruntimeconfig.cache

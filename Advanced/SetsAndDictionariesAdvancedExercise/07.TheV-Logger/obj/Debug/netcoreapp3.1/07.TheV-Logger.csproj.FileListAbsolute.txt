@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csprojAssemblyReference.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfo.cs
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.exe
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.deps.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.dev.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.genruntimeconfig.cache

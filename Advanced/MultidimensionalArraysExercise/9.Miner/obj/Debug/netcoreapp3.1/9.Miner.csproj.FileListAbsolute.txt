@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.exe
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.deps.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.runtimeconfig.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.runtimeconfig.dev.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\bin\Debug\netcoreapp3.1\9.Miner.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.csprojAssemblyReference.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.AssemblyInfo.cs
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\9.Miner\obj\Debug\netcoreapp3.1\9.Miner.genruntimeconfig.cache

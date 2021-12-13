@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.exe
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.deps.json
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.runtimeconfig.json
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.runtimeconfig.dev.json
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.dll
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\bin\Debug\netcoreapp3.1\1.Car.pdb
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.csprojAssemblyReference.cache
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.AssemblyInfo.cs
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.dll
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.pdb
+D:\Softuni\Advanced\DefiningClassesLab\1.Car\obj\Debug\netcoreapp3.1\1.Car.genruntimeconfig.cache

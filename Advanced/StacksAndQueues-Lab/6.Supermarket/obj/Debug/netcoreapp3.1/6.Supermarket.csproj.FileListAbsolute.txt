@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.exe
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.deps.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.runtimeconfig.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.dll
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\bin\Debug\netcoreapp3.1\6.Supermarket.pdb
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.dll
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.pdb
+D:\Softuni\Advanced\StacksAndQueues-Lab\6.Supermarket\obj\Debug\netcoreapp3.1\6.Supermarket.genruntimeconfig.cache

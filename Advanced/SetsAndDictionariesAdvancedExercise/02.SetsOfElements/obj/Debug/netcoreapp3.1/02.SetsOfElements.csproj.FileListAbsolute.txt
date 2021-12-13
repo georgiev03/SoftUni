@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.exe
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.deps.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.dev.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfo.cs
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedExercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.exe
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.deps.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.dev.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.csprojAssemblyReference.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfo.cs
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.exe
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.deps.json
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.json
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.dev.json
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.AssemblyReference.cache
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfo.cs
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\Softuni\Advanced\ExamPrep\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.genruntimeconfig.cache

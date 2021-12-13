@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+D:\Softuni\Advanced\FunctionalProgrammingLab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache

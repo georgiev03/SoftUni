@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.exe
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.deps.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.exe
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\bin\Debug\netcoreapp3.1\03.CustomMinFunction.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\03.CustomMinFunction\obj\Debug\netcoreapp3.1\03.CustomMinFunction.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TCH8k029pa6hIERYuCzG2AXjFWpwCoyIVe61D3LgkBFQJV42ngw3iAjDW/GGPP8MFZgv5UNKEwn/Ff9wYAY1A==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\Advanced\\ToTest\\ToTest\\ToTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

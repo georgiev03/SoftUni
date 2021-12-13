@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.exe
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.deps.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.runtimeconfig.dev.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\bin\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.AssemblyInfo.cs
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\2.SquaresInMatrix\obj\Debug\netcoreapp3.1\2.SquaresInMatrix.genruntimeconfig.cache

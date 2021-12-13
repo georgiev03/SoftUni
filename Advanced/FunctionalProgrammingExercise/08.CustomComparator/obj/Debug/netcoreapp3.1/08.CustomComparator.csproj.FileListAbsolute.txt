@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.exe
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.genruntimeconfig.cache

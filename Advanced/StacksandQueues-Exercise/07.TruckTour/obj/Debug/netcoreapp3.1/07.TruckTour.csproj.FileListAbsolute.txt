@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.exe
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.deps.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\bin\Debug\netcoreapp3.1\07.TruckTour.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.genruntimeconfig.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\07.TruckTour\obj\Debug\netcoreapp3.1\07.TruckTour.csprojAssemblyReference.cache

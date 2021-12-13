@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.exe
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.deps.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.runtimeconfig.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.runtimeconfig.dev.json
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\bin\Debug\netcoreapp3.1\8.Bombs.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.csprojAssemblyReference.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.AssemblyInfo.cs
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.dll
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.pdb
+D:\Softuni\Advanced\MultidimensionalArraysExercise\8.Bombs\obj\Debug\netcoreapp3.1\8.Bombs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csprojAssemblyReference.cache
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+D:\Softuni\Advanced\DefiningClassesExercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache

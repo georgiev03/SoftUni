@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.exe
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.deps.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.runtimeconfig.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.runtimeconfig.dev.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.AssemblyInfo.cs
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.genruntimeconfig.cache

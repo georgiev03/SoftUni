@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.exe
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\bin\Debug\netcoreapp3.1\05.AppliedArithmetics.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\05.AppliedArithmetics\obj\Debug\netcoreapp3.1\05.AppliedArithmetics.genruntimeconfig.cache

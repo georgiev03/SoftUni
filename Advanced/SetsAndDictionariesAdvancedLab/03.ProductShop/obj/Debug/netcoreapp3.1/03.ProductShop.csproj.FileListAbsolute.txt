@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.exe
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.deps.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.dev.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.csprojAssemblyReference.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfo.cs
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.genruntimeconfig.cache

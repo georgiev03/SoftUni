@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.exe
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.deps.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.runtimeconfig.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.csprojAssemblyReference.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.genruntimeconfig.cache

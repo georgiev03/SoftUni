@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Softuni\Advanced\Exam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Softuni\Advanced\Exam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache

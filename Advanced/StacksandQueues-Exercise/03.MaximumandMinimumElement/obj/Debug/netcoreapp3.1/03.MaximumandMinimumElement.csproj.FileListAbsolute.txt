@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.exe
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.deps.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.runtimeconfig.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumandMinimumElement.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.csprojAssemblyReference.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumandMinimumElement.genruntimeconfig.cache

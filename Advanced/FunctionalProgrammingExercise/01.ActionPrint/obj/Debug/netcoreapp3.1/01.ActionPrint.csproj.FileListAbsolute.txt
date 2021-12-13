@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.exe
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.dll
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.pdb
+D:\Softuni\Advanced\FunctionalProgrammingExercise\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.genruntimeconfig.cache

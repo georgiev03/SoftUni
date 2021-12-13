@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.exe
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.deps.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.runtimeconfig.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.runtimeconfig.dev.json
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.dll
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.pdb
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.csprojAssemblyReference.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.AssemblyInfo.cs
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.dll
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.pdb
+D:\Softuni\Advanced\FunctionalProgrammingLab\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.genruntimeconfig.cache

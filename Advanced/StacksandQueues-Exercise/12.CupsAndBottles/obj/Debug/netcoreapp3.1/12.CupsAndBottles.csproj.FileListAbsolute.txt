@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.exe
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.deps.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.runtimeconfig.dev.json
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\bin\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csprojAssemblyReference.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.AssemblyInfo.cs
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.dll
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.pdb
+D:\Softuni\Advanced\StacksandQueues-Exercise\12.CupsAndBottles\obj\Debug\netcoreapp3.1\12.CupsAndBottles.genruntimeconfig.cache

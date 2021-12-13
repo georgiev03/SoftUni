@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Softuni\Advanced\Exam\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Softuni\Advanced\Exam\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache

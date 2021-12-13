@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.exe
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.deps.json
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.runtimeconfig.json
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.runtimeconfig.dev.json
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.dll
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.pdb
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.csprojAssemblyReference.cache
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.AssemblyInfo.cs
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.dll
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.pdb
+D:\Softuni\Advanced\DoubleLinkedList\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.genruntimeconfig.cache

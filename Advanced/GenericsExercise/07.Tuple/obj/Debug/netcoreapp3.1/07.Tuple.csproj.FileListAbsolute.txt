@@ -1,0 +1,13 @@
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.exe
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.deps.json
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.json
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.dev.json
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.dll
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.AssemblyReference.cache
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfo.cs
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.dll
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\Softuni\Advanced\GenericsExercise\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.genruntimeconfig.cache

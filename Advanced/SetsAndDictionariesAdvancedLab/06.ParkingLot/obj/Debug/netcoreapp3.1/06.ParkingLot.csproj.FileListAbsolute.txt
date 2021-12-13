@@ -1,0 +1,12 @@
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.exe
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.deps.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.dev.json
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfoInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfo.cs
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.dll
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.pdb
+D:\Softuni\Advanced\SetsAndDictionariesAdvancedLab\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.genruntimeconfig.cache
