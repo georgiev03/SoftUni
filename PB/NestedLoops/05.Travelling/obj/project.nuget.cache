@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7PbKfXRjjY4T/l4CxOyzuZBvMUxmQiLIw9OoU3XY0aP2oJgFABLUoBgIb+fndf7cYvroqDzuyvbK6x9P6Cf3hQ==",
+  "dgSpecHash": "CnkDo70aeMfhSVoGCjflK05xuqMiUoyoP1jzYw71/PJB/KZolO0gylrWKyvZWVZ9UFiU/njZzkK3DnxOtAiLqQ==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoops\\05.Travelling\\05.Travelling.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoops\\05.Travelling\\05.Travelling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

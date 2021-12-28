@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JvH3qFBPJP1E0dKhFG5uGbZKLbAbjC+VkPUx76dDzh2Ann2Py7v1WM5QYX61pBXXRE5J2tOQjOgcnLkP1fGGtw==",
+  "dgSpecHash": "qLaf3i++qnxAcaGmuBqlLdoWFLBAbi5GQQVJGJ0AWi5o6VEvR1ZR5n78pjBCUg8SJLnbbjnu860qVTYrO8fOoQ==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoops\\02.MultiplicationTable\\02.MultiplicationTable.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoops\\02.MultiplicationTable\\02.MultiplicationTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

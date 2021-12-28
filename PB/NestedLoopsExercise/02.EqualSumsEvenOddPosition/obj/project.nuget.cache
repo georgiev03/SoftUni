@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gc4ubE/DCzp/we76HP/tt1KxpltjHlC3YduumqMUzIuLGlAd8NBBlmRGNeLHSo1QPPZp3vNLYsuzglzEVJCNXg==",
+  "dgSpecHash": "NhMKXu7EDZuoalC2i6ghwUkBnJnAf8G35HQbOW+edaZm6T7r8OhqOoqjEELr402Xc/Cz6VYkpvoZXVpCgasuNQ==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoopsExercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoopsExercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

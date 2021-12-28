@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5XnjrdDSwIi2CmSYhWPPgLTDGG0j7+9RFBqKfCuUVFCwdh0qkPi1ZRWLCyJEPJrCWqBGVY6RmVJKNtjHE8EfqQ==",
+  "dgSpecHash": "ZUFpw9EPCbxX1QflkeKAthQYc4Gl8qqvbyfSb4k8kgNxNJnuwlzX76eN5VP+Y7yrlwvl0XhTw/3iCCu/u+oivw==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoopsExercise\\05.PasswordGenerator\\05.PasswordGenerator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoopsExercise\\05.PasswordGenerator\\05.PasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

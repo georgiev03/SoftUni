@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Diq6hSSSHMhUamy8SDp6IVF0B1s8PhMCmN3az8RzzMR0M1xHySNGu0p9qKB9Zt1thatB7yRYq+5xCOePGPAMUQ==",
+  "dgSpecHash": "QpT4DN/YdiiYfLPdpAiVAF0zuDZIqdMHSWVPEzohKV2T5p/nTp/seTi4G/ADB5NNJMNgaqMleFG9WSxEj7SXvg==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoopsExercise\\03.SumPrimeNonPrime\\03.SumPrimeNonPrime.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoopsExercise\\03.SumPrimeNonPrime\\03.SumPrimeNonPrime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

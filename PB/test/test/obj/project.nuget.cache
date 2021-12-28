@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ShRWiEaROEMHuKJ9L4aPDVPVCZbNShIjFeLk5UAQQgSSP1KcP0roFma25Nm8LETc52BXQ5AOacVh4HJyb6IvnQ==",
+  "dgSpecHash": "uTPtlP20J7ZJ9lbDUVJXSkDrGelcWvMDQ1dTwroX7XmVMfLGR75o6KsUJH8zYoo5RUXvqkT8EpM7kaH7E0LSHA==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\test\\test\\test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Softuni\\NestedLoops\\03.Combinations\\03.Combinations.csproj": {}
+    "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\03.Combinations.csproj": {}
   },
   "projects": {
-    "D:\\Softuni\\NestedLoops\\03.Combinations\\03.Combinations.csproj": {
+    "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\03.Combinations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softuni\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
+        "projectUniqueName": "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
         "projectName": "03.Combinations",
-        "projectPath": "D:\\Softuni\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
+        "projectPath": "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
         "packagesPath": "C:\\Users\\Freeware Sys\\.nuget\\packages\\",
-        "outputPath": "D:\\Softuni\\NestedLoops\\03.Combinations\\obj\\",
+        "outputPath": "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Freeware Sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

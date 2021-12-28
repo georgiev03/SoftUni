@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V7npauUUdaQn5LXbKLJS03c75Cslv9VlQhaPHqVLpsvym+q0Ubl/ppjvg+g79PZ+xVMaj0GACKiXQ+GYJRy6EQ==",
+  "dgSpecHash": "F5g7VjOYxua5OTJQUb0A0+AtoPcFAiuyHMrm5ojH9Lei6WS0Xiu0/xv9lonfcTx30o3LnK1Glwqo9VGuPf44Dw==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoops\\03.Combinations\\03.Combinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

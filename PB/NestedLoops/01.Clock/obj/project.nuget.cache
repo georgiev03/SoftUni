@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zETuiIeGjsSn6umtb8bqHxYIQNnhITiIG1irFtAhGGxOPkFuBVXYEN98nYgIq/swkLUs0s5MuYVDM0/mncXL/g==",
+  "dgSpecHash": "A1zRcqa2XoJfj3PyzC/0yixFOmjLq8czQIPV3lCh+njFgpTksEamAG5/BI6642RSODM1M7ihdv/emChU/rVOBw==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoops\\01.Clock\\01.Clock.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoops\\01.Clock\\01.Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

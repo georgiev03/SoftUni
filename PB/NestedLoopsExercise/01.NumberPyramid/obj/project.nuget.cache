@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lIXz0KP2PpbQx+MM7WBsret+lAU5xLElajZDHaKqO7wLVoRuGI84BUpND7WfaUp9fqkfGf8Xlyb2NL//bFFXHA==",
+  "dgSpecHash": "kqKLVVZj8pa7PDV4g/Y0IiIrNYxXRjjuT8lIefrdtQmRkQIFsmEg2zWtWtgG6bgPzEe1fuwjV8H+lBEQEMVrOQ==",
   "success": true,
-  "projectFilePath": "D:\\Softuni\\NestedLoopsExercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Softuni\\PB\\NestedLoopsExercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freeware Sys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

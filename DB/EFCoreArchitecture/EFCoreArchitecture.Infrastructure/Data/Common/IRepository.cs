@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace EFCoreArchitecture.Infrastructure.Data.Common
 {
+    /// <summary>
+    /// Abstraction of repository access methods
+    /// </summary>
+    /// <typeparam name="T">Repository type / db table</typeparam>
     public interface IRepository : IDisposable
     {
         /// <summary>
@@ -43,9 +47,57 @@ namespace EFCoreArchitecture.Infrastructure.Data.Common
         Task<T> GetByIdsAsync<T>(object[] id) where T : class;
 
         /// <summary>
+        /// Adds entity to the database
+        /// </summary>
+        /// <param name="entity">Entity to add</param>
+        Task AddAsync<T>(T entity) where T : class;
+
+        /// <summary>
         /// Adds collection of entities to the database
         /// </summary>
-        /// <param name="entities"></param>
+        /// <param name="entities">Enumerable list of entities</param>
         Task AddRangeAsync<T>(IEnumerable<T> entities) where T : class;
+
+        /// <summary>
+        /// Updates a record in database
+        /// </summary>
+        /// <param name="entity">Entity for record to be updated</param>
+        void Update<T>(T entity) where T : class;
+
+        /// <summary>
+        /// Updates set of records in the database
+        /// </summary>
+        /// <param name="entities">Enumerable collection of entities to be updated</param>
+        void UpdateRange<T>(IEnumerable<T> entities) where T : class;
+
+        /// <summary>
+        /// Deletes a record from database
+        /// </summary>
+        /// <param name="id">Identificator of record to be deleted</param>
+        Task DeleteAsync<T>(object id) where T : class;
+
+        /// <summary>
+        /// Deletes a record from database
+        /// </summary>
+        /// <param name="entity">Entity representing record to be deleted</param>
+        void Delete<T>(T entity) where T : class;
+
+        void DeleteRange<T>(IEnumerable<T> entities) where T : class;
+        void DeleteRange<T>(Expression<Func<T,bool>> deleteWhereClause) where T : class;
+
+        /// <summary>
+        /// Detaches given entity from the context
+        /// </summary>
+        /// <param name="entity">Entity to be detached</param>
+        void Detach<T>(T entity) where T : class;
+
+        /// <summary>
+        /// Saves all made changes in transaction
+        /// </summary>
+        /// <returns>Error code</returns>
+        int SaveChanges();
+        Task<int> SaveChangesAsync();
+
+        
     }
 }
